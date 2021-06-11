@@ -5,9 +5,9 @@ highlighter:      rouge
 # Setup
 title:            Ella
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      '이것 저것 해보고 싶은 초보 개발자'
 url:              https://gyung688.github.io
-#baseurl:          '/blog'
+baseurl:          '/blog'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
