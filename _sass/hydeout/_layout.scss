@@ -24,8 +24,8 @@
 
 body {
   background-attachment: fixed;
-  background-color: $sidebar-bg-img;
-  background-image: linear-gradient(to bottom, lighten($sidebar-bg-color, 7%), darken($sidebar-bg-color, 7%));
+  background-color: $sidebar-bg-color;
+  background-image: url('/assets/img/sidebar-bg.jpg');
   color: $sidebar-text-color;
   display: flex;
   flex-direction: column;
