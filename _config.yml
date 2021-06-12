@@ -5,9 +5,9 @@ highlighter:      rouge
 # Setup
 title:            Ella
 tagline:          'A Jekyll theme'
-description:      '이것 저것 해보고 싶은 초보 개발자'
+description:      '이것 저것 해보고 싶은 개발자'
 url:              https://gyung688.github.io
-baseurl:          '/blog'
+baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -15,7 +15,7 @@ baseurl:          '/blog'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
+  name:           'Gyung'
   url:            https://twitter.com/fongandrewc
 
 paginate:         5
