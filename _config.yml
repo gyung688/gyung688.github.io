@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Ella
 tagline:          'A Jekyll theme'
-description:      '이것 저것 해보고 싶은 개발자'
+description:      '어제의 내가 오늘의 나를 만든다'
 url:              https://gyung688.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"

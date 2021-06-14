@@ -3,10 +3,14 @@ layout: default
 ---
 
 <div class="content">
+<!--   
+  //이전페이지
   {% include pagination-newer.html %}
+ -->
 
   {{ content }}
 
+<!-- 
   {% for post in paginator.posts %}
   <article class="post-body">
     <h2 class="post-title">
@@ -14,14 +18,18 @@ layout: default
         {{ post.title }}
       </a>
     </h2>
-    {% include post-meta.html post=post %}
-
+    
+    //날짜
+    {% include post-meta.html post=post %} 
+    
+    //부연설명
     {% if post.excerpt %}
       {{ post.excerpt }}
     {% else %}
       {{ post.content }}
-    {% endif %}
+    {% endif %} 
 
+    //comment
     {% if post.excerpt %}
       {% comment %}Excerpt may be equal to content. Check.{% endcomment %}
       {% capture content_words %}
@@ -38,5 +46,8 @@ layout: default
   </article>
   {% endfor %}
 
-  {% include pagination-older.html %}
+  //이후 페이지
+  {% include pagination-older.html %}  
+-->
+
 </div>
