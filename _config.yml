@@ -16,7 +16,7 @@ baseurl:          '/'
 
 author:
   name:           'Gyung'
-  url:            https://twitter.com/fongandrewc
+  url:            https://gyung688.github.io/blog
 
 paginate:         5
 # paginate_path:    '/page:num'
