@@ -1,0 +1,21 @@
+I""<h3 id="skills">Skills</h3>
+<hr />
+<ul>
+  <li>Server : Java</li>
+  <li>DB : Oracle, MariaDB, MySQL</li>
+  <li>OS : Windows, Linux</li>
+  <li>FrameWork : Spring MVC, 전자정부프레임워크</li>
+  <li>JavaScript, JQuery</li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="contact">Contact</h3>
+<hr />
+<ul>
+  <li>Name : 이혜경</li>
+  <li>Mail : gyung@kakao.com</li>
+  <li>Github : <a href="https://github.com/gyung688">https://github.com/gyung688</a></li>
+  <li>Blog : <a href="https://gyung688.github.io/blog">https://gyung688.github.io/blog</a></li>
+</ul>
+:ET

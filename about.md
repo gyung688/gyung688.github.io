@@ -4,10 +4,19 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  어제의 내가 오늘의 나를 만든다. 조금씩 조금씩 매일 공부하면 나도 풀스택 개발자가 될 수 있다!!
-  블로그와 깃허브에서 성장하는 저를 확인해보세요.
-</p>
+### Skills
+-------------
+- Server : Java  
+- DB : Oracle, MariaDB, MySQL  
+- OS : Windows, Linux  
+- FrameWork : Spring MVC, 전자정부프레임워크  
+- JavaScript, JQuery
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+<br/>
+
+### Contact
+-----------
+- Name : 이혜경  
+- Mail : gyung@kakao.com  
+- Github : <https://github.com/gyung688>  
+- Blog : <https://gyung688.github.io/blog>  

@@ -12,11 +12,20 @@
     </a>
   {% endif %}
 
-  <a id="subscribe-link"
-     class="icon" title="Subscribe" aria-label="Subscribe"
-     href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
+  <!-- 여기가 사이드바 첫번째 아이콘 -->
+
+  <a id="github-link"
+       class="icon" title="Github Project" aria-label="Github Project"
+       href="{{ site.gyung688.repo }}">
+      {% include svg/github.svg %}
+    </a>
+
+    <a id="subscribe-link"
+    class="icon" title="Subscribe" aria-label="Subscribe"
+    href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
     {% include svg/feed.svg %}
   </a>
+  <!--   
 
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
@@ -47,7 +56,7 @@
        href="{{ search_page.url | relative_url }}">
       {% include svg/search.svg %}
     </a>
-  {% endif %}
+  {% endif %} -->
 
   {% include custom-icon-links.html %}
 </nav>
