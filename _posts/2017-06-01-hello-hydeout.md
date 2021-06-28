@@ -1,8 +1,37 @@
 ---
 layout: post
-title: Hello Hydeout
-excerpt_separator:  <!--more-->
+title: Introduction
+excerpt_separator:  
 ---
+
+<p class="message">
+좋은 개발자란 사용자에게 열려있는 개발자라고 생각합니다.
+사용자의 환경을 깊이 이해하고 어떻게 하면 사용자에게 더 편하게 다가오는지 생각해얀하고 생각합니다.
+그것이 서버에 직접 구축을 하는 방법이든 새로운 기술을 써야한다든 말이죠.
+
+이런 개발자가 되려면 마라톤을 해야한다고 생각합니다.
+천천히 계속 끊임없이 달리다보면 그에 다다르지 않을까요.
+
+저는 욕심 많습니다.
+일도 잘하면서 기술 블로그도 쓰고, 토이 프로젝트도 하며 실력을 늘리고싶습니다.
+또 분석/설계부터 구현까지 모두를 어울러 잘하는 전문 엔지니어가 되고싶습니다.
+
+점점 성장하는 저의 모습을 아래 기술 블로그와 깃허브에서 확인해보세요.
+
+gitHub : https://github.com/gyung688/
+blog : gyung688.github.io/blog/
+
+
+마라토너 개발자
+코더가 아닌 개발자가 되자.
+가독성이 리팩토링하기 좋은 코드를 짜자.
+사용자 입장에서 생각하자.
+상황에 맞게 유연한 사고를 갖자. 
+현실 세계를 코드로 표현하는 법을 연습하자.(추상화 -> 구현)
+하나의 서비스가 기획되고 배포될 때 까지의 과정을 
+질문의 방식은 '이것을 하고 싶고, 이런 문제가 생겼고, 이것을 시도해봤다.'
+
+</p>
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
 theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
