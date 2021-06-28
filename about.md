@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-### Skills
+### Stacks
 -------------
 <img src="assets/img/skillLogo.png" width="520px" height="380px" title="스킬로고" alt="skillLogo"></img>
 
