@@ -6,7 +6,8 @@ sidebar_link: true
 
 ### Stacks
 -------------
-<img src="assets/img/skillLogo.png" width="520px" height="380px" title="스킬로고" alt="skillLogo"></img>
+
+![스택로고](/assets/img/skillLogo.png){: width="520px" height="380px"}
 
 - Server : Java  
 - DB : Oracle, MariaDB, MySQL  
