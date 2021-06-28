@@ -6,6 +6,8 @@ sidebar_link: true
 
 ### Skills
 -------------
+<img src="assets/img/skillLogo.png" width="520px" height="380px" title="스킬로고" alt="skillLogo"></img>
+
 - Server : Java  
 - DB : Oracle, MariaDB, MySQL  
 - OS : Windows, Linux  
