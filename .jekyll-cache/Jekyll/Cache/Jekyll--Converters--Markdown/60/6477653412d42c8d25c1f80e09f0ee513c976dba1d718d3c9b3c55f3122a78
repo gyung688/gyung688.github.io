@@ -1,6 +1,7 @@
-I"�<h3 id="skills">Skills</h3>
+I"�<h3 id="stacks">Stacks</h3>
 <hr />
-<p><img src="assets/img/skillLogo.png" width="520px" height="380px" title="스킬로고" alt="skillLogo" />&lt;/img&gt;</p>
+
+<p><img src="/assets/img/skillLogo.png" alt="스택로고" width="520px" height="380px" /></p>
 
 <ul>
   <li>Server : Java</li>
